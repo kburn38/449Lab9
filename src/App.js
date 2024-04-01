@@ -37,7 +37,7 @@ function RandomImage() {
     return (
         <>
             <h2>Say Hi to Maxwell</h2>
-            <img src={maxwell} />
+            <img alt="Maxwell" src={maxwell} />
         </>
     );
 }
